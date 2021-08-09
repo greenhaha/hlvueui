@@ -1,6 +1,5 @@
 import HlButton from "./button";
 import HlIcon from "./icon";
-import DIcon from "./icon1";
 import "../styles/index.scss";
 const components = [HlButton, HlIcon];
 

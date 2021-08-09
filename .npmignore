@@ -1,0 +1,6 @@
+coverage/
+examples/
+node_modules/
+tests/
+..gitignore
+.jest.config.js

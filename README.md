@@ -1,6 +1,7 @@
-# vueui
+# hlym-ui(WIP)
 
 ## Project Introduct
+this is a vue UI project.
 ```
 - examples
    - example // 组件使用demo

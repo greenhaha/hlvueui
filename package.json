@@ -1,7 +1,23 @@
 {
-  "name": "vueui",
+  "name": "hlymVueUI",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": {
+    "name": "greenhaha",
+    "email": "a15114101085@gmail.com"
+  },
+  "files": [
+    "lib",
+    "packages",
+    "package.json",
+    "typings",
+    "README.md"
+  ],
+  "typings": "typings/index.d.ts",
+  "style": "lib/hlym-ui.css",
+  "repository": {
+    "url": "https://github.com/greenhaha/hlvueui.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
